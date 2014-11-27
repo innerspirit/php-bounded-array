@@ -1,0 +1,19 @@
+{
+    "name": "innerspirit/bounded-array",
+    "description": "A class that validates array bounds when working with sequential items.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christian Maioli",
+            "email": "mmchristian@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "BoundedArray": "src/"
+        }
+    }
+}
