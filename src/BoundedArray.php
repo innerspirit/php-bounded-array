@@ -2,7 +2,7 @@
 
 namespace innerspirit\BoundedArray;
 
-class BoundedArray extends ArrayObject
+class BoundedArray extends \ArrayObject
 {
 	public $index;
 
