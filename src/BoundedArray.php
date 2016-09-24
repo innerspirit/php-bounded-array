@@ -1,6 +1,6 @@
 <?php
 
-namespace innerspirit\BoundedArray;
+namespace innerspirit;
 
 class BoundedArray extends \ArrayObject
 {
