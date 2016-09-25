@@ -35,4 +35,4 @@ class BoundedArray extends \ArrayObject
 		return $this->index;
 	}
 
-}//end class
+}
