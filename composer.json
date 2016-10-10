@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-        "php": ">=5.0.0"
+        "php": ">=5.0.0",
+        "phpunit/phpunit": "^4.8"
     },
     "autoload": {
         "psr-4": {
